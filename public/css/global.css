@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #ccc;
+}
+.menu {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  width: 90px;
+  border-radius: 50px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.btn-logar {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 24px;
+}
